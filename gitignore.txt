@@ -1,0 +1,7 @@
+*.zip
+*.mp4
+*.mov
+.DS_Store
+node_modules/
+dist/
+.env
